@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sheepuniverse.aternos.me",
+    "ip": "sheepuniverse.aternos.me:52108",
     "port": 52108,
     "version": "",
     "try-creative": false
